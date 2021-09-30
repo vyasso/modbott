@@ -1,14 +1,14 @@
 {
-  "main_token": "", 
-  "mongodb_url": "",
+  "main_token": "ODkzMjAwNTIwNTE5NDk5ODE2.YVX_zg.TpOU9wCtFEol8VIiEumGPSIE7K4", 
+  "mongodb_url": "mongodb+srv://vyasso:<password>@al3x.zje1b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "alexflipnoteApiKey":"",
-  "developers": [""],
+  "developers": ["537684828389113856"],
   "datadogApiKey": "",
   "dashboard":"true", 
-  "prefix":"!",
+  "prefix":".",
   "arc":"",
   "youtube_key":"",
   "cat_api_key":"",
-  "webhook_id":"",
-  "webhook_url":""
+  "webhook_id":"880871684717027329",
+  "webhook_url":"zAkW0HLPVpxBa0r0R9S-9MHI2ol_N52yCfhTuYcWOWIJ34ob9oZcUD2VLEudvZ0goLqz"
 }
